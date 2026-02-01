@@ -1,4 +1,4 @@
-# Ankita Roy 🌱✨
+# Ankita Roy
 
 <p align="center">
 <a href="https://github.com/ankita6876">
@@ -45,18 +45,4 @@
 | Computer Vision | Image processing experiments & CV fundamentals |
 | Academic Work | Coursework and applied computer science projects |
 
----
 
-### 🎯 Current Goals
-- Build clean, well-documented ML & CV projects  
-- Strengthen deep learning fundamentals (CNNs, Transformers)  
-- Prepare for MSc and future research opportunities  
-
----
-
-⭐ *This GitHub profile reflects my learning journey — growing step by step with consistency and curiosity.*
-
-💬 Feel free to explore, connect, and learn together 🌸
-
-- ⚡ Fun fact: ...
--->
