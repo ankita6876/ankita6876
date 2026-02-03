@@ -32,17 +32,11 @@
 ### 🧰 Skills & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,linux,numpy,pandas,opencv,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv,pytorch" />
   </a>
 </p>
 
 ---
 
-### 📌 Learning & Projects
-| Area | Description |
-|:----:|:------------|
-| DataCamp Practice | Python, NumPy, Pandas, data manipulation & ML basics |
-| Computer Vision | Image processing experiments & CV fundamentals |
-| Academic Work | Coursework and applied computer science projects |
 
 
