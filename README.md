@@ -29,14 +29,5 @@
 
 ---
 
-### 🧰 Skills & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv,pytorch" />
-  </a>
-</p>
-
----
-
 
 
